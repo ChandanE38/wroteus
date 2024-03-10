@@ -25,8 +25,4 @@ https://wrote-us.vercel.app
 
 
 
-## Contributors
-
-- [@Yashgupta9330](https://github.com/Yashgupta9330)
-- [@harshpandey73](https://github.com/harshpandey73)
 
