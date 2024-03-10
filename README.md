@@ -23,6 +23,11 @@ https://wrote-us.vercel.app
 - View multiple users' details
 
 
-
+## contributors
+Vishalraj
+Chandankumar
+Yashkumar
+Sujalverma
+WaliAhedhussain
 
 
